@@ -21,16 +21,15 @@ Prerequisites 📋
 - 2️⃣ Make the script executable:
 
 
-´´´ Bash
+```bash
 chmod +x display_path_and_instructions.sh
-´´´
+```
 ## Execution 🚀
 To run the script, open a terminal and type:
 
-´´´ Bash
+```bash
 ./display_path_and_instructions.sh
-´´´
-
+```
 You'll be greeted with a menu. Just follow the on-screen instructions! 📖
 
 ## License 📜
