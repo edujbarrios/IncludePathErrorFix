@@ -1,5 +1,5 @@
-### Script for Fixing Include Path Errors in C/C++ 🛠️
-# Author 🖋️
+# Script for Fixing Include Path Errors in C/C++ using VSC 🛠️
+## Author 🖋️
 Developed by Eduardo J Barrios - eduardojbarriosgarcia@gmail.com
 
 ## Description 📝
